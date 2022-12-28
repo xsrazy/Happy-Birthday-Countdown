@@ -1,4 +1,7 @@
 # Happy Birthday
+
+<h1 style="align: center;"><a href="https://ohmyfirda.my.id" target="_blank">DEMO</a></h1>
+
 Countdown Happy Birthday<br>
 To change the date, please open the file HappyBirthday.js<br>
 <ul>
